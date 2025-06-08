@@ -30,7 +30,6 @@ Traditional search engines treat queries as bags of keywords.
 *   🔴 “Pastel clothes” → returns nail polish bottles on the Most Popualr Fashion store site in UAE
 
 ![Screenshot 2025-05-20 153410](https://github.com/user-attachments/assets/afe9e65c-9e1a-4471-8f67-f6f4062e64ec)
-
     
 *   🕒 Shoppers spend extra minutes refining queries or leave frustrated
     
@@ -79,7 +78,7 @@ Traditional search engines treat queries as bags of keywords.
 -----------------------
 
     flowchart LR
-      subgraph Preprocessing
+      Preprocessing
         A[Raw Catalog & Images]
         A --> B[Data Cleaning & Normalization]
         B --> C[BLIP Captioning & Review Generation]
@@ -115,13 +114,11 @@ Traditional search engines treat queries as bags of keywords.
 | **Post Try-On Add-to-Cart Rate**    | 28% (2x higher than baseline search UX)      |
 
 
-🛤️ Roadmap & Future Work
--------------------------
+## 🛤️ Roadmap & Future Work
 
-*    Real-time personalization via user-click feedback loop
-    
-*    Voice-based search integration
-
+- [ ] Real-time personalization via user-click feedback loop  
+- [ ] Voice-based search integration  
+- [ ] Virtual try-on expansion from only Clothes to Shoes & Accessories 
 
 * * *
 
