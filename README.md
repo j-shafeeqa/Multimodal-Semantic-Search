@@ -22,6 +22,10 @@ Traditional e-commerce search engines fail to understand shopper *intent*. Searc
 
 The engine fuses text + image embeddings and in-loop ratings/price filters to deliver *precise, explainable* results—backed by an immersive virtual try-on experience.
 
+## 🎥 Live Demo 
+
+[👀✨ Click here to explore our project! ](https://www.canva.com/design/DAGodjKFnY0/z5C1IPc4cQ99Euixpy3PdQ/watch?utm_content=DAGodjKFnY0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h29ac98f660)
+
 🎯 The Real Problem
 -------------------
 
@@ -96,10 +100,6 @@ Traditional search engines treat queries as bags of keywords.
         J -->|"Try On"| K[Virtual Try-On Service]
         K --> J
       end
-
-## 🎥 Live Demo 
-
-[👀✨ Click here to explore our project! ](https://www.canva.com/design/DAGodjKFnY0/z5C1IPc4cQ99Euixpy3PdQ/watch?utm_content=DAGodjKFnY0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h29ac98f660)
 
 
 ## 📊 Performance & Benchmarks (30-user evaluation)
