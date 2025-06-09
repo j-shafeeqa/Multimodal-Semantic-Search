@@ -120,6 +120,12 @@ Traditional search engines treat queries as bags of keywords.
 - [ ] Voice-based search integration  
 - [ ] Virtual try-on expansion from only Clothes to Shoes & Accessories 
 
+## 📜 License
+
+**All rights reserved.**  
+This repository and its contents are the intellectual property of Shafeeqa Fathima Jahangir.  
+Use of this code, content, or designs without explicit permission is prohibited.
+
 * * *
 
 Built with ❤️ by **Shafeeqa Fathima Jahangir**, Final-Year CS @ University of West London.
