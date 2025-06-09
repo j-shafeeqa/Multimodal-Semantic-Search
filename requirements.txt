@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn==0.23.1
+python-multipart==0.0.12
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.3
+pillow==11.0.0
+requests==2.32.3
+torch==2.7.0
+torchvision==0.22.0
