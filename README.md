@@ -31,7 +31,7 @@ The engine fuses text + image embeddings and in-loop ratings/price filters to de
 
 Traditional search engines treat queries as bags of keywords.
 
-*   🔴 “Pastel clothes” → returns nail polish bottles on the Most Popualr Fashion store site in UAE
+*   🔴 “Pastel clothes” → returns nail polish bottles on the Most Popular Fashion store site in UAE
 
 ![Screenshot 2025-05-20 153410](https://github.com/user-attachments/assets/afe9e65c-9e1a-4471-8f67-f6f4062e64ec)
     
