@@ -67,6 +67,19 @@ Traditional search engines treat queries as bags of keywords.
 - 100ms latency on consumer-grade hardware  
 - Chips, loaders, patch previews, tooltips, and fallback handling
 
+## 🌟 What Sets This Solution Apart
+
+| Capability                         | Our Approach                                                      | Where Others Fall Short                                          |
+|------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+| **True Multimodal Understanding**  | Fuse text, image, AI-generated captions & simulated reviews into one 512-D embedding | Rely on separate text-only or image-only systems; no true fusion |
+| **Explainability by Design**       | “Why we recommend this” panels with rule-based rationale + Gemini polish | Black-box recommendations with no user-facing justification      |
+| **Photorealistic Virtual Try-On**  | End-to-end U²-Net → OpenPose → CP-VT​ON → GAN → Poisson blending    | Simple overlays or affine warps that look unrealistic            |
+| **Lightweight & Edge-Friendly**    | Sub-100 ms search latency on consumer hardware       | Require enterprise GPU clusters, high memory & latency           |
+| **No Manual Labeling or Fine-Tuning** | Off-the-shelf CLIP/BLIP/Gemini + synthetic augmentation—zero retraining | Depend on costly labeled datasets and hyperparameter sweeps      |
+| **Integrated Facet & Review Filtering** | In-loop price, rating & custom filters during FAISS search         | Post-filter passes that slow down retrieval and reduce UX fluidity |
+| **Rapid Domain Adaptation**        | New catalogs scrape → embed → index instantly, no tuning required  | Demand dataset annotation and model retraining for each domain   |
+
+
 ## 🛠️ Tech Stack
 
 | Layer                 | Technologies Used                                                                            |
